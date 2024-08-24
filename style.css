@@ -1,0 +1,146 @@
+.a1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.a2{
+    margin-left: 500px;
+}
+
+.a3{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.a3{
+    font-weight: 700;
+    font-size: 36px;
+    color: #424242;
+    padding-left: 20px;
+   
+}
+
+.a5{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
+
+header{
+    border-bottom: 2px solid #DEDBDB;
+}
+
+.a8{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+
+
+.a8{
+    color: #F0400F;
+
+}
+
+.a6{
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+    width: 700px;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.a9{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.a9{
+    font-weight: 700;
+    font-size: 48px;
+    color:  #0E0D5D;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.a11{
+    color: black;
+    font-weight: 500;
+    font-size: 28px;
+    padding: 10px 40px;
+    border: none;
+    background-color: transparent;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+input{
+    width: 533px;
+    height: 70px;
+   border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid #75757530;
+    font-size: 24px;
+    font-weight: 500px;
+    padding-left: 100px;
+}
+
+.a12{
+    margin: 30px;
+    gap: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.a13{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.a13{
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+
+}
+
+.a14{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.a14{
+    font-weight: 700;
+    font-size: 24px;
+    background: #F69E86;
+    color: #FFFFFF;  
+    width: 202px;
+    height: 67px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 900px;
+}
